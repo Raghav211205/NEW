@@ -1,0 +1,4 @@
+#condition for Number is Negative.
+num=10
+if num<0:
+  print(f"Number {num} is negative")
